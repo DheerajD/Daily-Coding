@@ -6,6 +6,10 @@ class Node {
 	int data ;
 	Node next;
 	
+	public Node() {
+		
+	}
+	
 	public Node(int data) {
 		this.data = data;
 	}
@@ -47,7 +51,7 @@ class LinkedList {
 public class DeleteNodeAtSpecificLoc {
 	public static void main(String args[]) {
 		Scanner sc = new Scanner(System.in);
-		System.out.println("Enter the number of nodes in linkedlist");
+		System.out.println("Enter the number of nodes in linkedl ist");
 		int n = sc.nextInt();
 		
 		if(n==0) {
