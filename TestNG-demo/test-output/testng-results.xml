@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="49" started-at="2020-06-14T01:46:51 IST" finished-at="2020-06-14T01:46:51 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="49" started-at="2020-06-14T01:46:51 IST" finished-at="2020-06-14T01:46:51 IST">
+      <class name="TestNG.demo.PythagorasWithDataProvTest">
+        <test-method status="PASS" signature="testPT(TestNG.demo.PythagorasTriplet)[pri:0, instance:TestNG.demo.PythagorasWithDataProvTest@23e028a9]" name="testPT" duration-ms="7" started-at="2020-06-14T01:46:51 IST" data-provider="test1" finished-at="2020-06-14T01:46:51 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TestNG.demo.PythagorasTriplet@4671e53b]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPT -->
+        <test-method status="PASS" signature="testPT(TestNG.demo.PythagorasTriplet)[pri:0, instance:TestNG.demo.PythagorasWithDataProvTest@23e028a9]" name="testPT" duration-ms="6" started-at="2020-06-14T01:46:51 IST" data-provider="test1" finished-at="2020-06-14T01:46:51 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TestNG.demo.PythagorasTriplet@543c6f6d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPT -->
+      </class> <!-- TestNG.demo.PythagorasWithDataProvTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
